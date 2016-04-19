@@ -16,9 +16,9 @@
 
 # ***************************
 
- a = 5 #int(input("Podaj barwe a: "))
- b = 5 #int(input("Podaj barwe b: "))
- c = 5 #int(input("Podaj barwe c: "))
+ #a = 5 #int(input("Podaj barwe a: "))
+ #b = 5 #int(input("Podaj barwe b: "))
+ #c = 5 #int(input("Podaj barwe c: "))
 
 # if a>b and a>c:
 #     print("red")
