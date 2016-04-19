@@ -32,7 +32,7 @@ function ajaxFunction(){
    // Create a function that will receive data
    // sent from the server and will update
    // div section in the same page.
-   //ajaxRequest.onreadystatechange = function(){
+   ajaxRequest.onreadystatechange = function(){
    
       if(ajaxRequest.readyState == 4){
          var ajaxDisplay = document.getElementById('ajaxDiv');
