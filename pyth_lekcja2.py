@@ -40,10 +40,10 @@
 #     print('bialy')
 # elif x == 10:
 #     print('czerwony')
-# elif x == 5:
-#     print('niebieski')
-# else:
-#     print('czarny')
+#elif x == 5:
+ #print('niebieski')
+#else:
+ print('czarny')
     
     
 # a = 5 #int(input("podaj liczbe a: "))
@@ -81,9 +81,8 @@
 #     print("nie mozna zbudowac TR prostokatnego")
 
 
-
-# gracz1 = 'P' #input("gracz1 Wybierz K, N, P: ")
-# gracz2 = 'K' #input("gracz2 Wybierz K, N, P: ")
+ gracz1 = 'P' #input("gracz1 Wybierz K, N, P: ")
+ gracz2 = 'K' #input("gracz2 Wybierz K, N, P: ")
 
 # #    P K  N
 # # P [*][*][]
